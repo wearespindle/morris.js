@@ -1,6 +1,6 @@
 {
   "name": "morris.js",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "homepage": "http://morrisjs.github.com/morris.js",
   "license": "BSD-2-Clause",
   "description": "Easy, pretty charts",
@@ -32,6 +32,6 @@
     "test": "grunt concat coffee mocha"
   },
   "engines": {
-    "node": ">=0.8 <0.11"
+    "node": ">=0.8"
   }
 }
